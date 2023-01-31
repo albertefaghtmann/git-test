@@ -1,5 +1,7 @@
 * {
   box-sizing: border-box;
+  font-size:5rem;
+  font-family: 'Courier New', Courier, monospace;
 }
 
 body {
